@@ -1,0 +1,37 @@
+# Compiled class files & build artifacts
+target/
+*.class
+*.war
+*.ear
+*.jar
+
+# Embedded runtime environments and archives
+.tomcat/
+.mvn-home/
+tomcat.zip
+.maven.zip
+*.log
+
+# Runtime database files
+*.mv.db
+*.trace.db
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*~
